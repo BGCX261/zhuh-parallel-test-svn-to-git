@@ -1,0 +1,10 @@
+/*
+	this is a program design for calculating the position of ions in the cavity of 
+G-quartets.It's already konw that for the ions of K,the stably place is the middle
+state between two G-quartets.In the program,we get the z-axis plumb the 
+surface of G-quartets.and get the distribution of ions  along the z-axis.
+	I get the least-squares fitted coordinates of base to calculate the z-axis. what
+is the same with 3DNA does.
+zhuhong
+2010.01.25
+*/
